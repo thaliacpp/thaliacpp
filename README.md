@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! I'm Thalia 👋
 
-<!--
-**thaliacpp/thaliacpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student passionate about systems programming and performance
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- C++ | Rust | Python
+- CMake | Cargo
+- Linux | Git
+- LLVM | GDB
+- OpenGL | Vulkan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- Learning compiler design
+- Contributing to open source Rust projects
+- Experimenting with graphics programming
+- Building low-level system tools
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thalia&show_icons=true&theme=dracula)
+
+## 📫 Connect
+- LinkedIn: [thalia-dev](https://linkedin.com/in/thalia-dev)
+- Twitter: [@thalia_codes](https://twitter.com/thalia_codes)
